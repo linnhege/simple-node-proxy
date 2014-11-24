@@ -1,0 +1,23 @@
+{
+    "name": "simple-node-proxy",
+    "version": "1.0.0",
+    "description": "Simple proxy for debugging",
+    "main": "proxy.js",
+    "bin": {
+        "proxy" : "proxy.js"
+    },
+    "author": {
+        "name": "Linn Hege M. Bade",
+        "email": "linn_hege1@hotmail.com"
+    },
+    "license": {
+        "type": "MIT"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:linnhege/node-proxy.git"
+    },
+    "engines": {
+        "node": ">=0.2.0"
+    }
+}
