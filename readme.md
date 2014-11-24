@@ -1,5 +1,7 @@
-A simple node.js made for debugging REST API on your local dev environment.
+A simple node.js proxy
 ------------------------------------------------------------------------------
+
+A simple node.js made for debugging REST API on your local dev environment.
 
 Run the proxy:
 
